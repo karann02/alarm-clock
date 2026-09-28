@@ -118,4 +118,9 @@ tests/
   test_timeparse.py
 PLAN.md           # requirements and plan made before coding
 README.md
+LICENSE
 ```
+
+## License
+
+MIT - see [LICENSE](LICENSE).
